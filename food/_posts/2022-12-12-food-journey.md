@@ -20,7 +20,7 @@ hide_last_modified: true
 
 📍봉명동
 
-![](/assets/img/food/2022-09-03-1.JPG){:width="40%"} ![](/assets/img/food/2022-09-03-2.JPG){:width="40%"}
+![](/assets/img/food/2022-09-03-1.JPG){:width="45%"} ![](/assets/img/food/2022-09-03-2.JPG){:width="45%"}
 
 봉명동에서 영화 보고 저녁 먹은 날..~ 고기 먹은 다음에 아쉬워서 육회도 먹으러 갔자나.
 
@@ -32,7 +32,7 @@ hide_last_modified: true
 
 📍남다른식탁
 
-![](/assets/img/food/2022-09-24.JPG){:width="45%"}
+![](/assets/img/food/2022-09-24.JPG){:width="90%"}
 
 모야 모야 생각보다 분위기도 좋고 안주도 맛있었자나〰️
 
@@ -44,7 +44,7 @@ hide_last_modified: true
 
 📍톤쇼우
 
-![](/assets/img/food/2022-10-10.JPG){:width="45%"}
+![](/assets/img/food/2022-10-10.JPG){:width="90%"}
 
 린생 돈까스 등극 🥇
 
@@ -56,7 +56,7 @@ hide_last_modified: true
 
 📍달구지막창
 
-![](/assets/img/food/2022-10-13.JPG){:width="45%"}
+![](/assets/img/food/2022-10-13.JPG){:width="90%"}
 
 린생 첫 막창. 린생 첫 달구지.
 
@@ -66,7 +66,7 @@ hide_last_modified: true
 
 📍골목
 
-![](/assets/img/food/2022-10-20.JPG){:width="45%"}
+![](/assets/img/food/2022-10-20.JPG){:width="90%"}
 
 린생 첫 골목.
 
@@ -78,7 +78,7 @@ hide_last_modified: true
 
 📍패티앤베지스
 
-![](/assets/img/food/2022-10-23.JPG){:width="45%"}
+![](/assets/img/food/2022-10-23.JPG){:width="90%"}
 
 린생 햄버거 등극 🥇
 
@@ -94,7 +94,7 @@ hide_last_modified: true
 
 📍라이너스바베큐
 
-![](/assets/img/food/2022-11-05.JPG){:width="45%"}
+![](/assets/img/food/2022-11-05.JPG){:width="90%"}
 
 텍사스 바베큐 먹은 날~ 쿄쿄
 
