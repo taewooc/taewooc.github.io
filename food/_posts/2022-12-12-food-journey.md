@@ -42,7 +42,7 @@ hide_last_modified: true
 
 ## 2022.10.10
 
-📍톤쇼우
+📍카와카츠
 
 ![](/assets/img/food/2022-10-10.JPG){:width="80%"}
 

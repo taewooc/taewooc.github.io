@@ -5,6 +5,16 @@ cover: true
 sitemap: false
 ---
 
+![](/assets/img/200/IMG_6856.JPG){:width="80%"}
+
+때우 오랜만에 돌아온 블로그 타임이야!!
+
+벌써 2️⃣0️⃣0️⃣이나 됐다니!! 때우랑 함께하는 시간은 너무 빨리간당...
+
+우리 추억 한번 정리해봐쪄 쟈기 재밌게 봐❤️
+
+---
+
 ![](/assets/img/love1.JPG){:width="80%"}
 <!-- ![](/assets/img/love2.JPG){:width="100%"} -->
 
