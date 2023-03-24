@@ -5,7 +5,7 @@ cover: true
 sitemap: false
 ---
 
-![](/assets/img/200/IMG_6856.JPG){:width="80%"}
+![](/assets/img/200/IMG_6856.jpeg){:width="80%"}
 
 때우 오랜만에 돌아온 블로그 타임이야!!
 
